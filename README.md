@@ -35,4 +35,8 @@ Redux Toolkit – For efficient and scalable global state management.
 - DummyJSON / Custom API – For fetching food items and categories dynamically.
 - Axios / Fetch API – Used for handling asynchronous API requests.
 
+Midnight cravings? We've got you!  
+Get delicious meals delivered at lightning speed — anytime, anywhere.
+
+
   
