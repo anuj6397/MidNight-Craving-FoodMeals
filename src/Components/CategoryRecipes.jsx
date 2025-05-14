@@ -42,7 +42,7 @@ export default function CategoryPage() {
               <div style={{ marginTop: '1.3rem' }}>
                 <h3>{item.name}</h3>
                 <p><b>₹{item.caloriesPerServing}</b></p>
-                <button className='btn'onClick={() => dispatch(AddItems({ id:item.id, image:item.image, name:item.name, price: item.caloriesPerServing, qty: 1}))}>Add Cart</button>
+                <button className='card-btn'onClick={() => dispatch(AddItems({ id:item.id, image:item.image, name:item.name, price: item.caloriesPerServing, qty: 1}))}>Add Cart</button>
               </div>
             </div>
           </div>
